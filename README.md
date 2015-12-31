@@ -28,7 +28,7 @@ This should result in the creation of ``{your-cv}.pdf``
 
 ## Credit
 
-This is based off the Awesome-CV template create dby Byungjin Park. The original GitHub repository cann be founf [here](https://github.com/posquit0/Awesome-CV)
+This is based off of the Awesome-CV template created by Byungjin Park. The original GitHub repository cann be found [here](https://github.com/posquit0/Awesome-CV)
 
 ### LaTeX
 LaTeX is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
